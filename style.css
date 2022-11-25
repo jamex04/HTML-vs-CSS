@@ -1,0 +1,47 @@
+#Bg{
+    background-image: linear-gradient(to bottom left,blue,hsl(194, 100%, 50%));
+}
+#new {
+font-size: small;
+color :blue;
+
+    }
+    #veda_center{
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;
+        font-weight: bold;
+        text-shadow: 2px 3px black;
+        text-align: center;
+       ;
+
+    }
+    #veda_ce{ 
+        width: 300px;
+        font-weight: lighter;
+        font-size: 10px;
+
+    }
+    #Bod{
+        position: relative;
+        font-size: 15px;
+        top: 60px;
+        left: 500px;
+        right: 100;
+        border-style: groove;
+        border-radius: 30px;
+        width: 500px;
+        height: 200;
+        color: black;
+        text-align: center;
+        opacity: 20;
+    }
+    #Mc{
+        text-align: right;
+        position: relative;
+        bottom: 30px;
+    }
+    #form{
+        text-align: center;
+        right: 20px;
+    }
